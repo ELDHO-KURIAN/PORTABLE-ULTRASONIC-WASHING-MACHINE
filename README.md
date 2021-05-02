@@ -1,5 +1,5 @@
 # PORTABLE-ULTRASONIC-WASHING-MACHINE
-This is a portable ultrasonic washing machine, it can be easily carried around while travelling and can be used to wash cloths just like a washing machine 
+This is a portable ultrasonic washing machine,it cleans by using ultrasound, it can be easily carried around while travelling and can be used to wash cloths just like a traditional washing machine 
 
 
  <image src="images/IMG_20180117_140732.jpg" width="500"> 
@@ -10,7 +10,7 @@ This is a portable ultrasonic washing machine, it can be easily carried around w
  
   # FEATURES
  ```
-1. portable and consumes less power when compared to tradetional washing machine 
+1. portable and consumes less power when compared to traditional washing machine 
 2. occupy less space
 3. proper cleaning and less damage to fabric
 4. uses less water
